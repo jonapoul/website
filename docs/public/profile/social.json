@@ -1,0 +1,20 @@
+{
+    "social": [
+        {
+            "network" : "email",
+            "href": "mailto:jpoulton@pm.me"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/jonapoul"
+        },
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/jon-poulton-6a59111a4/"
+        },
+        {
+            "network" : "discord",
+            "href": "https://discord.com/users/jonapoul"
+        }
+    ]
+}
