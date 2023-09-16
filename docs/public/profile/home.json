@@ -1,4 +1,8 @@
 {
     "name": "Jon Poulton",
-    "roles": ["an Android Engineer", "an ATAK Plugin Developer", "a real human bean"]
+    "roles": [
+        "an Android Engineer",
+        "an ATAK Plugin Developer",
+        "a real human bean"
+    ]
 }

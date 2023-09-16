@@ -2,32 +2,51 @@
     "experiences": [
         {
             "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "subtitle": "Rowden Technologies",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "TBC"
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "Feb 2022 - Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Systems/Software Engineer",
+            "subtitle": "BAE Systems",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Started as a Systems Engineer working on a small team, moved over time towards full-time Software Engineering as my suitability for the role became apparent",
+                "Designed, built and deployed Android applications from scratch based on customer requirements (both formal and informal)",
+                "Managed a CI pipeline to run automated test suites and store development artefacts",
+                "Integrated the apps with several pieces of third-party hardware/software and ran end-to-end tests to ensure continuous functionality throughout development",
+                "Also developed a Python server backend - and an accompanying browser frontend interface using Vue.JS - to perform status monitoring of many Android devices from a management terminal",
+                "Skilled at applying iterative Agile processes (using both RTC and JIRA) to estimate and implement new features and bug fixes",
+                "Directly supported software adoption and training programmes by presenting the delivered system to users, administrators and maintainers",
+                "Plenty of experience with managing stakeholder relationships internally and externally - handling technical questions, discussing feature roadmaps and timelines, dealing with ad-hoc issues, etc.",
+                "Experienced with fully documenting the developed software, including general usage, configuration and expected behaviours under stress"
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "Sep 2018 – Jan 2022"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Intern",
+            "subtitle": "Toshiba Medical Visualisation Systems, Edinburgh",
+            "workType": "Summer Internship",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "12-week internship project investigating the plausibility of HDR display output in future medical imaging products",
+                "Used C++ via DirectX 12 and new (at the time) HDR display features in Windows 10",
+                "Utilised common industry version control and development tools via Visual Studio as part of an existing team"
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "Jun - Aug 2017"
+        },
+        {
+            "title": "Intern",
+            "subtitle": "Astronomy Technology Centre, Edinburgh",
+            "workType": "Summer Internship",
+            "workDescription": [
+                "8-week summer project developing a Windows application for viewing 3D data files in an Oculus Virtual Reality headset",
+                "Used C++ and the Unreal Engine alongside several third-party libraries",
+                "Ended with a functioning prototype taking advantage of the platform’s unique properties"
+            ],
+            "dateText": "Jun - Aug 2016"
         }
     ]
 }
